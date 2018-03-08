@@ -1,4 +1,4 @@
-# Conversor-HTML-to-PDF
+# HTML to PDF converter
 Permite convertir String con HTML a PDF
 
 ## HTML2PDF
