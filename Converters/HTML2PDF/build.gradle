@@ -1,0 +1,27 @@
+buildscript {
+	
+	repositories {
+		mavenCentral()
+	}
+
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+
+group = 'co.com.g3a'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.6
+
+repositories {
+	mavenCentral()
+}
+
+
+dependencies {
+	//AGPL Licence
+	//compile group: 'com.itextpdf.tool', name: 'xmlworker', version: '5.4.1'
+	compile('org.xhtmlrenderer:flying-saucer-pdf:9.1.12')
+	compile('com.lowagie:itext:2.1.7')
+}

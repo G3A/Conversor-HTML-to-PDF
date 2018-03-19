@@ -1,7 +1,19 @@
-# HTML to PDF converter
-Permite convertir String con HTML a PDF
+# My Work
 
-## HTML2PDF
-Se hace uso de la librería https://github.com/flyingsaucerproject/flyingsaucer
 
-*Ver la clase com.co.g3a.html2pdf.PDFRenderOpenSourceTest.java*
+## Converters
+
+### HTML2PDF
+Convert HTML String to PDF.
+The flyingsaucer library is used --> https://github.com/flyingsaucerproject/flyingsaucer
+
+*See class * co.com.g3a.html2pdf.PDFRenderOpenSourceTest.java*
+
+
+## Rest Services
+
+### JAX-RS
+
+#### Simple rest service
+
+   Hello Word Service + Basic Authentication + Roles anotations use + JAX-RS 
