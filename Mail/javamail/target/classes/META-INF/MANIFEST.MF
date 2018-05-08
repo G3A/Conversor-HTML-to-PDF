@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Simple Java Mail demostration with JFrame
+Implementation-Version: 1.0.0-RELEASE
+Built-By: gustavo.arismendi
+Specification-Title: Simple Java Mail demostration with JFrame
+Implementation-Vendor-Id: co.com.g3a
+Build-Jdk: 1.8.0_162
+Specification-Version: 1.0.0-RELEASE
+Created-By: Maven Integration for Eclipse
+
